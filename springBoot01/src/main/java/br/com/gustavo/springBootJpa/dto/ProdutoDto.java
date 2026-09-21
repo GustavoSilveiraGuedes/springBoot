@@ -1,4 +1,4 @@
-package br.com.gustavo.springBoot01.dto;
+package br.com.gustavo.springBootJpa.dto;
 
 import lombok.*;
 

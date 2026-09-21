@@ -1,4 +1,4 @@
-package br.com.gustavo.springBoot01.exception;
+package br.com.gustavo.springBootJpa.exception;
 
 import lombok.*;
 

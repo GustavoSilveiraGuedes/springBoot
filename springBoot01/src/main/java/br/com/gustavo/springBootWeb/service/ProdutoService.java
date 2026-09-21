@@ -1,8 +1,8 @@
-package br.com.gustavo.springBoot01.service;
+package br.com.gustavo.springBootWeb.service;
 
-import br.com.gustavo.springBoot01.database.model.ProdutoModel;
-import br.com.gustavo.springBoot01.dto.ProdutoDto;
-import br.com.gustavo.springBoot01.exception.NotFoundExeption;
+import br.com.gustavo.springBootWeb.database.model.ProdutoModel;
+import br.com.gustavo.springBootWeb.dto.ProdutoDto;
+import br.com.gustavo.springBootWeb.exception.NotFoundExeption;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;

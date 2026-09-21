@@ -1,7 +1,7 @@
-package br.com.gustavo.springBoot01.handler;
+package br.com.gustavo.springBootWeb.handler;
 
-import br.com.gustavo.springBoot01.exception.ErrorResponse;
-import br.com.gustavo.springBoot01.exception.NotFoundExeption;
+import br.com.gustavo.springBootWeb.exception.ErrorResponse;
+import br.com.gustavo.springBootWeb.exception.NotFoundExeption;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;

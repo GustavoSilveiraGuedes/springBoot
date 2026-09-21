@@ -1,4 +1,4 @@
-package br.com.gustavo.springBoot01.database.model;
+package br.com.gustavo.springBootWeb.dto;
 
 import lombok.*;
 
@@ -10,9 +10,8 @@ import java.math.BigDecimal;
 @NoArgsConstructor
 @ToString
 @Builder
-public class ProdutoModel {
+public class ProdutoDto {
 
-    private Integer id;
     private String name;
     private BigDecimal preco;
     private Integer quantidade;

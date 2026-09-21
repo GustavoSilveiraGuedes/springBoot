@@ -1,13 +1,13 @@
-package br.com.gustavo.springBoot01;
+package br.com.gustavo.springBootJpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBoot01Application {
+public class SpringBootJpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBoot01Application.class, args);
+		SpringApplication.run(SpringBootJpaApplication.class, args);
 	}
 
 }

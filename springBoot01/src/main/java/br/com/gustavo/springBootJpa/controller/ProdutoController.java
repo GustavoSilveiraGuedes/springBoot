@@ -1,9 +1,9 @@
-package br.com.gustavo.springBoot01.controller;
+package br.com.gustavo.springBootJpa.controller;
 
-import br.com.gustavo.springBoot01.database.model.ProdutoModel;
-import br.com.gustavo.springBoot01.dto.ProdutoDto;
-import br.com.gustavo.springBoot01.exception.NotFoundExeption;
-import br.com.gustavo.springBoot01.service.ProdutoService;
+import br.com.gustavo.springBootWeb.database.model.ProdutoModel;
+import br.com.gustavo.springBootWeb.dto.ProdutoDto;
+import br.com.gustavo.springBootWeb.exception.NotFoundExeption;
+import br.com.gustavo.springBootWeb.service.ProdutoService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
